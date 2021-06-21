@@ -19,3 +19,4 @@ function BlogPost({ blog }) {
 }
 
 export default BlogPost;
+
