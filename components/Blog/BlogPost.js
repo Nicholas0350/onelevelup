@@ -2,7 +2,7 @@
 import React from 'react';
 import Link from 'next/link'
 
-function BlogPost(blog) {
+function BlogPost({ blog }) {
   return (
     <div className="BlogPost">
       <div>
