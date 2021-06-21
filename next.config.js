@@ -1,6 +1,6 @@
 module.exports = {
   webpack: function (config) {
-    config.module.rules.puah({
+    config.module.rules.push({
       test: /\.md$/,
       use: 'raw-loader'
     })

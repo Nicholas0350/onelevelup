@@ -3,7 +3,7 @@
 slug: the-secrets-book
 title: the secrets book
 description: the secret to wining
-img:"https://www.pakkajobsb.com/index.php?main_page=product_info&products_id=845073"
+img: https://1uslfb2c70yo4bh8wc265k3i-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/10-Best-Web-Development-Technologies-In-2021.png
 date: 19 June 2020
  
 ---
