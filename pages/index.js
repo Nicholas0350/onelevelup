@@ -9,27 +9,16 @@ export default function Home(props) {
     <section id="index-page">
       <Header />
       <h1 id="blog-header">
-        Nicholas Blog
+        React Markdown & Gray Matter libraries inside a Next app
       </h1>
       <div className="container">
         <div className="blogsContainer">
-
-
           {listItems.map((blog, i) => (
             <BlogPost key={i} blog={blog} />
           ))}
-
-
-          {/* {listItems.map((blog, i) => (
-          <BlogPost key={i} blog={blog} />
-          ))} */}
-
-
-
         </div>
       </div>
     </section>
-
   )
 }
 
@@ -38,7 +27,6 @@ export const getStaticProps = async () => {
   const fs = require("fs");
 
   const files = fs.readdirSync(`${process.cwd()}/content`, 'utf-8')
-
 
   const blogs = files.filter(fn => fn.endsWith(".md"))
 
@@ -49,7 +37,6 @@ export const getStaticProps = async () => {
     });
     return rawContent
   })
-
   return {
     props: {
       data

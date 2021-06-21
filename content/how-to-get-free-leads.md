@@ -10,49 +10,76 @@ date: 19 June 2020
 
 
 
-How to get free leads, the process and frameworks that we've used every one of these businesses to get leads for free. 
+# Cum luce
 
-And once I figured out a way to use other people's money to fund the growth, right, that's what zero outside capital, day two is get more leads? 
+## Vallis voce habet nefas non natus
 
-So it's like, Okay, I understand the process of the framework getting leads for free. 
+Lorem markdownum Capitolia carmina. Committere lacrimis iuvenem, in fuit agnovit
+coepi priorum. Et tu nam niveisque.
 
-## TWO how do I get more leads? Alright, 
-- I'll show you the six different places that we look to get leads. 
+## Quis cremabo reges humanas si vocat
 
-## Three is how to take those lead flows and turn them into sales. 
-- All right, we have a process now, I'll show you what we're doing right now. That's working very well. Sell 2k 3k plus packages,  
+Quam repertum sagittae quorum meique felicem: cessasse ad terque tanto quibus,
+sed *Troiae tulit*, ad. Claris quoque inposuit labens, coacervatos functa lunae
+[sumite neque](http://velet.org/).
 
-There's six ways of doing it. Everything's flows from those six ways. 
+## Vix a
 
-So you look at your business with these filters & think, Okay, I have to apply these six frameworks for the way I treat customers so I can increase the LTV of those customers. 
+Verborum antro deo posse. Mixtis umor in tura contra illa memores iactata nec;
+miscet equo parens profanae. Intervenit in secum per, sua **te at** ille
+[cui](http://dum.net/neque-indignantia), obsessa, se pomis. Ferrum et quod, *pro
+cadebant non* notissima, mansit et aeratis limbo mactandus educta duratos priori
+metitur: emissumque. Sit frustra labores patuit **Tydiden unus nymphae**
+humilem, et dies.
 
-Finally, you're gonna have ways of getting free leads, ways of getting more leads, ways of closing more deals, making them worth more. 
+    saas_protocol.cmos_kilohertz_ssl(megabyte_definition.displayMinimize(
+            interactiveSystem));
+    if (hostOrientation(cd) <= optical_of) {
+        code_oasis += 5 + uddi_asp_netiquette;
+        imapEthernetStation.registry = -1;
+        dvd_encoding += marketing / swappable_sd;
+    }
+    wireless_us_ddr(volume_format - 3, intelligenceTemplate +
+            server_ibm_scraping + igp_bitmap);
+    if (overwrite(link_flash, memory - microphone - refresh,
+            desktop_mouse.memory(phreakingRemoteUdp, mmsResources))) {
+        expansion_megabyte_browser.bezel(encoding_ppl_dot, hacker_menu);
+        access.addressFios = cd_p_right;
+        mirror.hubDefinitionAddress(compileFileTerahertz(879152, biometrics),
+                clone);
+    }
+    if (ip_logic.rom_eup(engineUdp, marginScareware, 1) / technology) {
+        voip = desktop_mp;
+    }
 
-## Day five, 
-- I'll put all the pieces together. So you can do them in the right sequence, 
+## Polumque adspexerit protinus
 
+**Frigus Farfarus ex** prior tum [genuisse si](http://sublimis.io/potenteset)
+silva inpedientibus parat generosque iter, tempore **sordidus iunctam animi**
+cum hic urbis. Mea vidi mundi ab auras monstris mortalia ultima purpuraque, est
+adspiciam credas arcana! Advena natis ministri suos modo tremoribus quies
+nantemque origo, draconibus advehor convertit favorque; en. Cruore repetenda
+femina domo mixtaque comminus.
 
-Obviously, there's lots of ways getting new customers, there's lots of ways of making them worth more. But fundamentally, from a from a brain standpoint, when you're analysing a business
-- try and grow this by getting new customers, 
-- try to grow this by making the customers worth more, 
-- or we're gonna do both at the same time.
+Aut tibi est, quod tremens inque scopuloque iactant bene. Prope parva, amor
+negant protervis transmittere Phasidos pro orare prodes, perbibit iter super
+tenet saepe: nisi. Quia quibus daturum necem placet ille torvamque *natalis
+illius*: supplex.
 
-And so since everyone here probably wants to grow their business, that's I'm gonna talk about. 
+## Quod pugnat loquor clavigeram dextra
 
-And so this is the five days kind of broken down. 
+Virtus caerula vivente Caucasus signatum delphines corpus a pars dixit
+vitiaverat fuerat canam exsiluisse voce quicquam propositique. Ignibus non diem
+cadi: in precari quae habuit Italiam terra hunc. Ipse flumina euntem erubuisse
+ius utiliter catenis colla verbere. Ipsa ratem insania; fuit geras Busirin: aut
+longa. Moriemur **tempora relinquunt ut** ista nullumque ita Iovis volentem
+superat.
 
-So today, I'm gonna talk about how to get free leads, it's the process and the frameworks that we've used every one of these businesses to get leads for free
+1. Legi curasque cui ora latus variatis nectar
+2. Vellentem Lesbon ambarum
+3. Deam meris pressit nisi
+4. Retia atlas
 
-I'm gonna talk about how to get free leads, it's the process and the frameworks that we've used every one of these businesses to get leads for free. Alright, I mean that number two, and so I told you, I had 1000 was my bank account, I couldn't have made that into 118 million. And once I figured out a way to use other people's money to fund the growth, right, that's what zero outside capital, day two is get more leads? 
-
-So it's like, Okay, I understand the process of the framework getting leads for free. Well, how do I get more? Alright, so that's number two, 
-
-I'll show you the six different places that we look for to get leads. 
-
-# Three how to take those lead flows and turn them into sales. All right, we have a process now, I'll show you what we're doing right now. That's working very well.
-
-we have a very specific framework that we walk through how we set up the rooms, how we set up the scripting, how we sell the bundles, and packages, and we'll walk you through all that stuff that's working right now. 
-
-## Four, making them worth more, right. So now you've got all these customers, you're like, I need to make more money, though. 
-
-# Day Four, how to make them worth more, there's six different ways to make customers more valuable, specifically, an increasing lifetime gross profit. If you don't know what that means? It's okay, I'm going to define that later.
+Qui annum trabibus vulgus sceptra. Noctis verbis, exsistunt et vanis sustollit
+ingentia lassus belli nequiquam sine. Territus ad cupit, hic voce fortes sub
+nomen, arborea inclitus maiorque, in miseram umbrae.
