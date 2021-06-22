@@ -18,6 +18,19 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+### Problem
+ 
+Want content generated through markdown files using Nextjs to serve react app. 
+
+Create a new markdown file that contains content & imagesfor a  blog post from the creation of this markdown file.
+A new blog post will be listed on the homepage of website and clicking on it will lead us to a page where we can read that specific blog post in full.
+
+- Create a project find a way to read and parse markdown files, because Next.js does not provide a way out of the box. 
+
+- Set up dynamic routing so that a unique URL is automatically generated for each new blog post. 
+- create a single blog page component that renders out a blog from the data stored in a given markdown file. 
+- Set dynamic URL’s to go to this page component, which is configured to extract the unique part of the dynamic URL, the query parameter, and use this information to render out a specific markdown file that corresponds to the blog-post that the user just clicked on.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
